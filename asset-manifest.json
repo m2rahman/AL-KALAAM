@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AL-KALAAM/static/css/main.f07b2ebf.css",
-    "main.js": "/AL-KALAAM/static/js/main.1381d50f.js",
+    "main.js": "/AL-KALAAM/static/js/main.3212aeb1.js",
     "index.html": "/AL-KALAAM/index.html",
     "main.f07b2ebf.css.map": "/AL-KALAAM/static/css/main.f07b2ebf.css.map",
-    "main.1381d50f.js.map": "/AL-KALAAM/static/js/main.1381d50f.js.map"
+    "main.3212aeb1.js.map": "/AL-KALAAM/static/js/main.3212aeb1.js.map"
   },
   "entrypoints": [
     "static/css/main.f07b2ebf.css",
-    "static/js/main.1381d50f.js"
+    "static/js/main.3212aeb1.js"
   ]
 }
