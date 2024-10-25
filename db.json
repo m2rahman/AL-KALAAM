@@ -1,0 +1,13 @@
+{
+  "prayerTimes": [
+    {
+      "id": 1,
+      "fajr": "05:30 AM",
+      "dhuhr": "12:45 PM",
+      "asr": "03:45 PM",
+      "maghrib": "06:30 PM",
+      "isha": "08:00 PM",
+      "jumuah": "01:30 PM"
+    }
+  ]
+}
