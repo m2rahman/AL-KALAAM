@@ -24,6 +24,15 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  {
+    
+    "homepage": "https://m2rahman.github.io/AL-KALAAM",
+    "scripts": {
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
+    }
+  },
+  
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -41,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
